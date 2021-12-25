@@ -48,6 +48,8 @@ export function Home() {
     history.push(`/rooms/${roomCode}`)
   }
 
+
+
   return (
     <div id="page-auth">
       <aside>
